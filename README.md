@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi I am Yale,  
+I am current working on 
 
-<!--
-**cbot918/cbot918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on cbot microservice project
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +15,38 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## CBot 
+cbot is a environment auto config service 
+it helps programmer to save huge a mount of time
+
+
+### tech stack
+backend
+- golang
+- go-test
+- mysql
+- go-lint
+
+web
+- react
+- tailwindcss
+- js-lint
+- jest
+
+infra
+- github-actions
+- docker-compose
+- droneci
+- kubernetes
+- elk
+- promitheus
+- grafana
+
+ci
+- pytest
+- cypress
+- rspec
+- k6
+- slack
+- redmine
