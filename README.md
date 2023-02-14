@@ -1,10 +1,20 @@
-### Hi I am Yale,  
-I am current working on 
+### Hi I am Yale,
 
+#### I am working on
 
+- ya package manager
+- gob build tool for create golang project
+- ciy, a docker/vm auto test tool
+- langy, a toy compiler project for practice
 
+#### I am looking for a Web/API Backend Engineer Job
 
+#### links
 
+- github: https://github.com/cbot918
+- blog: https://github.com/cbot918/myblog
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on cbot microservice project
@@ -14,39 +24,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## CBot 
-cbot is a environment auto config service 
-it helps programmer to save huge a mount of time
-
-
-### tech stack
-backend
-- golang
-- go-test
-- mysql
-- go-lint
-
-web
-- react
-- tailwindcss
-- js-lint
-- jest
-
-infra
-- github-actions
-- docker-compose
-- droneci
-- kubernetes
-- elk
-- promitheus
-- grafana
-
-ci
-- pytest
-- cypress
-- rspec
-- k6
-- slack
-- redmine
+- ⚡ Fun fact: ... -->
