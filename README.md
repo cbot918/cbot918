@@ -11,7 +11,7 @@
 ### 🔭 links
 
 #### Blog
-- blog: https://github.com/cbot918/blogg
+- blog: https://github.com/cbot918/youtube/tree/blog
 
 #### Guthubs 
 
