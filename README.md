@@ -4,8 +4,8 @@
 
 #### 🌱 project working
 
-- grpost - a simlpe social website based on go postgres and react
-- wsy - a websocket app without 3rd library
+- [grpost](https://github.com/cbot918/grpost) - a simlpe social website based on go postgres and react
+- [wsy](https://github.com/cbot918/wsy) - a websocket app without 3rd library
 
 
 #### 🔭 links
