@@ -2,15 +2,23 @@
 
 #### looking for a golang junior job
 
-#### 🌱 project working
+### 🌱 project working
 
 - [grpost](https://github.com/cbot918/grpost) - a simlpe social website based on go postgres and react
 - [wsy](https://github.com/cbot918/wsy) - a websocket app without 3rd library
 
 
-#### 🔭 links
-- github: https://github.com/cbot918
+### 🔭 links
+
+#### Blog
 - blog: https://github.com/cbot918/blogg
+
+#### Guthubs 
+
+- main: https://github.com/cbot918
+- deprecated: https://github.com/nodev918
+- deprecated: https://github.com/yale918
+
 
 <!--
 Here are some ideas to get you started:
