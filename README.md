@@ -4,6 +4,10 @@
 
 <br>
 
+### Releases
+[gob](https://github.com/cbot918/gob)
+a build tool for quick start project
+
 ### 🌱 project working on
 
 - [grpost](https://github.com/cbot918/grpost) - a simlpe social website based on go postgres and react
@@ -18,14 +22,16 @@
 
 ### 🔭 links
 
-#### Blog
+#### Blog and tool
 - blog: https://github.com/cbot918/youtube/tree/blog
+- tools: https://github.com/cbot918/tools
 
 #### Githubs 
 
 - main: https://github.com/cbot918
 - deprecated: https://github.com/nodev918
 - deprecated: https://github.com/yale918
+
 
 
 <!--
