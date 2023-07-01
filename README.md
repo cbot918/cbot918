@@ -5,7 +5,7 @@
 <br>
 
 ### Releases
-[gob](https://github.com/cbot918/gob)
+- [gob](https://github.com/cbot918/gob)
 a build tool for quick start project
 
 ### 🌱 project working on
