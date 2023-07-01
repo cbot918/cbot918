@@ -13,9 +13,9 @@
 - [wsy](https://github.com/cbot918/wsy) - a websocket app without 3rd library
 
 ### 😄 some fun project for myself
-- [infra-auto](https://github.com/cbot918/infra-auto): some auto script that super convenient for me setup develope environment  
-- [template](https://github.com/cbot918/template): some template that I build when practicing someting, its very useful for me
-- [tools](https://github.com/cbot918/tools): build some tool for increase develop speed
+- [infra-auto](https://github.com/cbot918/infra-auto) - some auto script that super convenient for me setup develope environment  
+- [template](https://github.com/cbot918/template) - some template that I build when practicing someting, its very useful for me
+- [tools](https://github.com/cbot918/tools) - build some tool for increase develop speed
 
 <br>
 
