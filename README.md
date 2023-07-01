@@ -1,19 +1,27 @@
 ### Hi I am Yale,
 
-#### looking for a golang junior job
+#### I'm a happy developer looking for a golnag job
 
-### 🌱 project working
+<br>
+
+### 🌱 project working on
 
 - [grpost](https://github.com/cbot918/grpost) - a simlpe social website based on go postgres and react
 - [wsy](https://github.com/cbot918/wsy) - a websocket app without 3rd library
 
+### 😄 some fun project for myself
+- [infra-auto](https://github.com/cbot918/infra-auto): some auto script that super convenient for me setup develope environment  
+- [template](https://github.com/cbot918/template): some template that I build when practicing someting, its very useful for me
+- [tools](https://github.com/cbot918/tools): build some tool for increase develop speed
+
+<br>
 
 ### 🔭 links
 
 #### Blog
 - blog: https://github.com/cbot918/youtube/tree/blog
 
-#### Guthubs 
+#### Githubs 
 
 - main: https://github.com/cbot918
 - deprecated: https://github.com/nodev918
