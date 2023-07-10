@@ -6,9 +6,9 @@
 
 ### Releases
 - [gob](https://github.com/cbot918/gob) - a build tool for quick start project
+- [dbmg](https://github.com/cbot918/dbmg) - a minimal db migrate tool for person side-project use
 
 ### 🌱 project working on
-
 - [grpost](https://github.com/cbot918/grpost) - a simlpe social website based on go postgres and react
 - [wsy](https://github.com/cbot918/wsy) - a websocket app without 3rd library
 
