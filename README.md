@@ -2,14 +2,18 @@
 
 #### I'm a happy developer looking for a golnag job
 
+SKILL:
+- golang
+- reactjs
+
 <br>
 
 ### 🌱 project working on
 - [grpost](https://github.com/cbot918/grpost) - a simlpe social website based on go postgres and react
-- [qchat](https://github.com/cbot918/qchat) - a chatroom
+- [qchat](https://github.com/cbot918/qchat) - a chat app
 
 ### 🌱 library working on
-- [wsy](https://github.com/cbot918/wsy) - a websocket app without 3rd library
+- [wsy](https://github.com/cbot918/wsy) - a websocket app with zero dependency
 - [reacty](https://github.com/cbot918reacty) - a ui renderer with zero dependency
 
 ### 😄 some fun project for myself
