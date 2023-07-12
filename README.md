@@ -5,8 +5,8 @@
 <br>
 
 ### Skills:
-- golang
-- reactjsg
+- golang / k8s / microservice
+- reactjs
 
 ### 🌱 project working on
 - [grpost](https://github.com/cbot918/grpost) - a simlpe social website based on go postgres and react
