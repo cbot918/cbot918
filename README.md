@@ -14,10 +14,11 @@
 
 ### 🌱 library working on
 - [wsy](https://github.com/cbot918/wsy) - a websocket app with zero dependency
-- [reacty-client](https://github.com/cbot918/reacty-client) - a ui renderer with zero dependency
+
+### 🌱 library archieve
+- [reacty](https://github.com/cbot918/reacty) - a react, jsx, babel, vite toolchain practice minimal poc implement 
 
 ### 😄 some fun project for myself
-- [reacty-client](https://github.com/cbot918/reacty-client) - poc handmade webpack like toolchain project 
 - [gob](https://github.com/cbot918/gob) - a build tool for quick start project
 - [dbmg](https://github.com/cbot918/dbmg) - a minimal db migrate tool for person side-project use
 - [infra-auto](https://github.com/cbot918/infra-auto) - some auto script that super convenient for me setup develope environment  
