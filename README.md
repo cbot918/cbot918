@@ -13,7 +13,7 @@
 - [qchat](https://github.com/cbot918/qchat) - a chat app
 
 ### 🌱 library working on
-- [wsy](https://github.com/cbot918/wsy) - a websocket app with zero dependency
+- [wsy](https://github.com/cbot918/liby/wsy) - a websocket app with zero dependency
 
 ### 🌱 library archieve
 - [reacty](https://github.com/cbot918/reacty) - a react, jsx, babel, vite toolchain practice minimal poc implement 
