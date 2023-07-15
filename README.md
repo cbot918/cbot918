@@ -5,7 +5,7 @@
 <br>
 
 ### Skills:
-- golang / k8s / microservice
+- golang / sql / k8s 
 - reactjs
 
 ### 🌱 project working on
