@@ -2,10 +2,13 @@
 
 #### I'm a happy developer looking for a golnag job
 
+### Experience
+- 1Y SDET
+- 1Y Free Dev
 
 ### Skills:
 - Golang / C / React
-- PSQL / MYSQL
+- PSQL / MYSQL / Redis / MQ / LB
 - Docker / K8S
 - Ubuntu / CentOS
 
