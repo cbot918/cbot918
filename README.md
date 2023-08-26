@@ -2,10 +2,12 @@
 
 #### I'm a happy developer looking for a golnag job
 
-<br>
 
 ### Skills:
-- Golang / React / C
+- Golang / C / React
+- PSQL / MYSQL
+- Docker / K8S
+- Ubuntu / CentOS
 
 ### Blog
 - [Yale WebDev](https://cbot918.github.io/webblog)
