@@ -5,10 +5,14 @@
 <br>
 
 ### Skills:
-- golang / sql / k8s 
-- reactjs
+- Golang / React / C
 
-### 🌱 project working on
+### Blog
+- [Yale WebDev](https://cbot918.github.io/webblog)
+- [Yale Tutor](https://cbot918.github.io/tutorblog)
+- [Yale Code](https://cbot918.github.io/codeblog)
+
+<!-- ### 🌱 project working on
 - [grpost](https://github.com/cbot918/grpost) - a simlpe social website based on go postgres and react
 - [qchat](https://github.com/cbot918/qchat) - a chat app
 
@@ -51,4 +55,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... --> -->
