@@ -12,6 +12,11 @@
 - [Yale Tutor](https://cbot918.github.io/tutorblog)
 - [Yale Code](https://cbot918.github.io/codeblog)
 
+### Projects
+- [PO文網站 MERN](https://github.com/cbot918/igclone918)
+- [線上即時共筆 MERN](https://github.com/cbot918/qdoc918)
+- [PO文網站 Go重構版](https://github.com/cbot918/grpost-gozero)
+- [文字網遊 FPO](https://github.com/cbot918/fss)
 <!-- ### 🌱 project working on
 - [grpost](https://github.com/cbot918/grpost) - a simlpe social website based on go postgres and react
 - [qchat](https://github.com/cbot918/qchat) - a chat app
@@ -55,4 +60,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... --> -->
+- ⚡ Fun fact: ... --> 
