@@ -3,7 +3,7 @@
 #### I'm a happy developer looking for a golnag job
 
 ### Skills:
-- Golang / C / React
+- Golang / React / C / NASM
 
 <!-- ### Blog
 - [Yale WebDev](https://cbot918.github.io/webblog)
