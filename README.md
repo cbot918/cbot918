@@ -2,26 +2,19 @@
 
 #### I'm a happy developer looking for a golnag job
 
-### Experience
-- 1Y SDET
-- 1Y Free Dev
-
 ### Skills:
 - Golang / C / React
-- PSQL / MYSQL / Redis / MQ / LB
-- Docker / K8S
-- Ubuntu / CentOS
 
-### Blog
+<!-- ### Blog
 - [Yale WebDev](https://cbot918.github.io/webblog)
 - [Yale Tutor](https://cbot918.github.io/tutorblog)
-- [Yale Code](https://cbot918.github.io/codeblog)
+- [Yale Code](https://cbot918.github.io/codeblog) -->
 
-### Projects
+<!-- ### Projects
 - [PO文網站 MERN](https://github.com/cbot918/igclone918)
 - [線上即時共筆 MERN](https://github.com/cbot918/qdoc918)
 - [PO文網站 Go重構版](https://github.com/cbot918/grpost-gozero)
-- [文字網遊 FPO](https://github.com/cbot918/fss)
+- [文字網遊 FPO](https://github.com/cbot918/fss) -->
 <!-- ### 🌱 project working on
 - [grpost](https://github.com/cbot918/grpost) - a simlpe social website based on go postgres and react
 - [qchat](https://github.com/cbot918/qchat) - a chat app
