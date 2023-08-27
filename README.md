@@ -1,4 +1,4 @@
-### Hi I am Yale,
+### Hi I am Yale
 
 #### I'm a happy developer looking for a golnag job
 
