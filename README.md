@@ -5,6 +5,8 @@
 ### Skills:
 - Golang / React / C / NASM / DB / Docker / K8S
 
+### Leetcode: 17
+
 <!-- ### Blog
 - [Yale WebDev](https://cbot918.github.io/webblog)
 - [Yale Tutor](https://cbot918.github.io/tutorblog)
