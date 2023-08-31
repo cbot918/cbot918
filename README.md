@@ -7,6 +7,11 @@
 
 ### Leetcode: 17
 
+### Working on
+- apps-linode
+- menode
+- oboot
+
 <!-- ### Blog
 - [Yale WebDev](https://cbot918.github.io/webblog)
 - [Yale Tutor](https://cbot918.github.io/tutorblog)
