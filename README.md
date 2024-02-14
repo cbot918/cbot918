@@ -1,5 +1,5 @@
 ### hi, i am Yale
-a gopher, sharer and project builder
+i'm a gopher, sharer and project builder
 
 #### skills: Golang | React | Kubernetes
 
