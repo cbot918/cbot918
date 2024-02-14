@@ -13,7 +13,7 @@
 
 </br>
 
-[Events](https://github.com/cbot918/events)  |  [Tutorials](https://github.com/cbot918/tutorial)
+[Tutorials](https://github.com/cbot918/tutorial)  |  [Events](https://github.com/cbot918/events)
 
 <!-- ### Blog
 - [Yale WebDev](https://cbot918.github.io/webblog)
