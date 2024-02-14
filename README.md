@@ -1,17 +1,12 @@
 ### hi, i am Yale
 a gopher, sharer and project builder
 
-</br>
-
 #### skills: Golang | React | Kubernetes
-
-</br>
 
 #### recent works
 - ogateway: yet another open source api gateway
 - ochat: a distribute chat system 
 
-</br>
 
 [Tutorials](https://github.com/cbot918/tutorial)  |  [Events](https://github.com/cbot918/events)
 
