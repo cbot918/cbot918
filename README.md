@@ -16,7 +16,9 @@
 
 ### [events](https://github.com/cbot918/events)
 
-### [https://github.com/cbot918/tutorial](tutorials)
+</br>
+
+### [tutorials](https://github.com/cbot918/tutorial)
 
 <!-- ### Blog
 - [Yale WebDev](https://cbot918.github.io/webblog)
