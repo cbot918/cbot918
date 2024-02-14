@@ -3,8 +3,7 @@
 
 </br>
 
-### Skills:
-- Golang / React / Database / K8S
+### Skills: Golang / React / Database / K8S
 
 </br>
 
@@ -14,11 +13,7 @@
 
 </br>
 
-### [events](https://github.com/cbot918/events)
-
-</br>
-
-### [tutorials](https://github.com/cbot918/tutorial)
+[events](https://github.com/cbot918/events) [tutorials](https://github.com/cbot918/tutorial)
 
 <!-- ### Blog
 - [Yale WebDev](https://cbot918.github.io/webblog)
