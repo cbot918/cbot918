@@ -1,4 +1,4 @@
-### Hi I am Yale
+### hi, i am Yale
  gopher, sharer, tutorialer, and project builder
 
 </br>
