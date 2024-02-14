@@ -6,13 +6,17 @@
 ### Skills:
 - Golang / React / Database / K8S
 
+</br>
+
 ### recent works
 - ogateway: yet another open source api gateway
 - ochat: a distribute chat system 
 
-### events: https://github.com/cbot918/events
+</br>
 
-### tutorials: https://github.com/cbot918/tutorial
+### [events](https://github.com/cbot918/events)
+
+### [https://github.com/cbot918/tutorial](tutorials)
 
 <!-- ### Blog
 - [Yale WebDev](https://cbot918.github.io/webblog)
