@@ -3,7 +3,7 @@
 
 </br>
 
-#### Skills: Golang / React / Database / K8S
+#### Skills: Golang / React / Kubernetes
 
 </br>
 
