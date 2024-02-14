@@ -1,16 +1,16 @@
 ### Hi I am Yale
-
-#### I'm a happy developer looking for a golnag job
+ gopher, sharer, tutorialer, and project builder
 
 ### Skills:
-- Golang / React / C / NASM / DB / Docker / K8S
+- Golang / React / Database / K8S
 
-### Leetcode: 17
+### recent works
+- ogateway: yet another open source api gateway
+- ochat: a distribute chat system 
 
-### Working on
-- apps-linode
-- menode
-- oboot
+### events: https://github.com/cbot918/events
+
+### tutorials: https://github.com/cbot918/tutorial
 
 <!-- ### Blog
 - [Yale WebDev](https://cbot918.github.io/webblog)
