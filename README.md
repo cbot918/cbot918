@@ -1,5 +1,5 @@
 ### hi, i am Yale
- gopher, sharer, tutorialer, and project builder
+ i'm a gopher, sharer and project builder
 
 </br>
 
