@@ -3,7 +3,7 @@
 
 </br>
 
-#### Skills: Golang / React / Kubernetes
+#### skills: Golang | React | Kubernetes
 
 </br>
 
