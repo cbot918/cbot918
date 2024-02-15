@@ -1,7 +1,7 @@
 ### hi, i am Yale
 i'm a gopher, sharer and project builder
 
-#### skills: Golang | React | Kubernetes
+#### skills: Golang | React | docker
 
 #### recent works
 - ogateway: yet another open source api gateway
