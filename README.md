@@ -7,7 +7,7 @@ i'm a Software Engineer, I like code, build stuff and cat!
 sin
 
 #### public share:
-[go chat app implement](https://docs.google.com/presentation/d/1PvJi6tJVPd2hFZ_abEP4DfYlnq_-LbgGDWNjh3qQ8eY/edit?usp=sharing)
+- [go chat app implement](https://docs.google.com/presentation/d/1PvJi6tJVPd2hFZ_abEP4DfYlnq_-LbgGDWNjh3qQ8eY/edit?usp=sharing)
 
 #### social links:
 - [Youtube](https://www.youtube.com/@yalecode918)
