@@ -1,16 +1,20 @@
 ### hi, i am Yale
-i'm a gopher, sharer and project builder
+i'm a Software Engineer, I like code, build stuff and cat!
 
-#### skills: Golang | React | docker
+#### skills: Java | Golang | Javascript | Tutor
 
-#### recent works
-- ogateway: yet another open source api gateway
-- ochat: a distribute chat system 
 
 sin
 
+#### public share:
+[go chat app implement](https://docs.google.com/presentation/d/1PvJi6tJVPd2hFZ_abEP4DfYlnq_-LbgGDWNjh3qQ8eY/edit?usp=sharing)
 
-[Tutorials](https://github.com/cbot918/tutorial)  |  [Events](https://github.com/cbot918/events)
+#### social links:
+- [Youtube](https://www.youtube.com/@yalecode918)
+- [Blog](https://cbot918.github.io/webblog)
+
+product:
+- building...
 
 <!-- ### Blog
 - [Yale WebDev](https://cbot918.github.io/webblog)
