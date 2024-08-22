@@ -9,10 +9,13 @@ Lang: Golang | Java | Reactjs
 - nice-npc
 - spt-social
 
+## raise event
+- COSCUP 2024 SPT track (TR210 Room)
+
 ## event share:
 #### offline:
-- [go chat app implement](https://docs.google.com/presentation/d/1PvJi6tJVPd2hFZ_abEP4DfYlnq_-LbgGDWNjh3qQ8eY/edit?usp=sharing)
-- how to build coding community from zero to 300
+- [go chat app implement](https://docs.google.com/presentation/d/1PvJi6tJVPd2hFZ_abEP4DfYlnq_-LbgGDWNjh3qQ8eY/edit?usp=sharing) ( GDG conf )
+- how to build coding community from zero to 300 ( coffee shop )
 
 online:
 - react tutorial series
