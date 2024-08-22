@@ -4,10 +4,11 @@ i'm a Software Engineer, I like code, build project and cat!
 ## skills:
 Lang: Golang | Java | Reactjs
 
-## projects:
-- sideproj.tw-backend
-- nice-npc
-- spt-social
+## open source project:
+
+## open source commit:
+- zeabur/zeabur
+- zhufuyi/sponge
 
 ## raise event
 - COSCUP 2024 SPT track (TR210 Room)
