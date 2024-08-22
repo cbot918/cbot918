@@ -1,20 +1,36 @@
 ### hi, i am Yale
-i'm a Software Engineer, I like code, build stuff and cat!
+i'm a Software Engineer, I like code, build project and cat!
 
-#### skills: Java | Golang | Javascript | Tutor
+## skills:
+Lang: Golang | Java | Reactjs
 
+## projects:
+- sideproj.tw-backend
+- nice-npc
+- spt-social
 
-sin
-
-#### public share:
+## event share:
+#### offline:
 - [go chat app implement](https://docs.google.com/presentation/d/1PvJi6tJVPd2hFZ_abEP4DfYlnq_-LbgGDWNjh3qQ8eY/edit?usp=sharing)
+- how to build coding community from zero to 300
 
-#### social links:
+online:
+- react tutorial series
+- learn go in 20 minuts
+- java clean arch repository structure
+- reading note: System Design Interview – An Insider's Guide
+
+course:
+- hex school: js and go - golang api tutorial
+
+ithelp:
+- go junior learning note
+
+#### links:
 - [Youtube](https://www.youtube.com/@yalecode918)
 - [Blog](https://cbot918.github.io/webblog)
 
-product:
-- building...
+
 
 <!-- ### Blog
 - [Yale WebDev](https://cbot918.github.io/webblog)
