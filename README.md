@@ -1,38 +1,4 @@
-### hi, i am Yale
-i'm a Software Engineer, I like code, build project and cat!
-
-## skills:
-Lang: Golang | Java | Reactjs
-
-## open source project:
-
-## open source commit:
-- zeabur/zeabur
-- zhufuyi/sponge
-
-## raise event
-- COSCUP 2024 SPT track (TR210 Room)
-
-## event share:
-#### offline:
-- [go chat app implement](https://docs.google.com/presentation/d/1PvJi6tJVPd2hFZ_abEP4DfYlnq_-LbgGDWNjh3qQ8eY/edit?usp=sharing) ( GDG conf )
-- how to build coding community from zero to 300 ( coffee shop )
-
-online:
-- react tutorial series
-- learn go in 20 minuts
-- java clean arch repository structure
-- reading note: System Design Interview – An Insider's Guide
-
-course:
-- hex school: js and go - golang api tutorial
-
-ithelp:
-- go junior learning note
-
-#### links:
-- [Youtube](https://www.youtube.com/@yalecode918)
-- [Blog](https://cbot918.github.io/webblog)
+Yale, a software engineer like to build Web, Operating System, Database projects
 
 
 
