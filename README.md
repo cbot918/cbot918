@@ -1,4 +1,4 @@
-Yale, a software engineer like to build Web, Operating System, Database projects
+code and fun
 
 
 
